@@ -27,7 +27,7 @@ export class Form extends Component {
             name: '',
             email: '',
             message: ''
-        })
+        });
     };
 
     render() {
