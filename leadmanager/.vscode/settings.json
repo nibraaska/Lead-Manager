@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\nnibr\\.virtualenvs\\lead_manager_react_django-80CFP5s8\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
